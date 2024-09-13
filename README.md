@@ -1,1 +1,1 @@
-# Michael-Meal-s-app
+# Michael-Meals-app
